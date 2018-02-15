@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'themoviedb'
+gem 'dotenv'
 
 group :development, :test do
   gem 'sqlite3'

@@ -272,6 +272,7 @@ DEPENDENCIES
   capybara
   coffee-rails
   database_cleaner
+  dotenv
   dotenv-rails
   factory_bot_rails
   guard-rspec
